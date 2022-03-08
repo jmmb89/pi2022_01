@@ -1,2 +1,6 @@
-# pi2022_01
-PI - AI XADREZ
+# PI XADREZ 2022
+
+## Alunos:
+
+- Joao Mario Motidome Barradas
+- Leandro Borges de Moura
