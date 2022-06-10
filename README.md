@@ -1,4 +1,4 @@
-# P.I INTELIGENCIA ARTIFICIAL 2022
+# P.I XADREZ 2022
 
 ## Dependencias:
 
